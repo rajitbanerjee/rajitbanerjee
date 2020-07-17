@@ -1,4 +1,4 @@
-<img src="./resources/hello-world.jpg" width=500> 
+<img src="https://github.com/rajitbanerjee/rajitbanerjee/blob/master/resources/hello-world.jpg" width=500> 
 
 [![Linkedin: rajitbanerjee](https://img.shields.io/badge/-rajitbanerjee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajitbanerjee/)](https://www.linkedin.com/in/rajitbanerjee/)
 [![Twitter: rajit_banerjee](https://img.shields.io/twitter/follow/rajit_banerjee?style=social)](https://twitter.com/rajit_banerjee)
