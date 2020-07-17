@@ -6,9 +6,9 @@
 - 👯 I’m looking to collaborate on **anything cool!**
 - 💬 Ask me about **Python, Java, photography, studying at UCD** 
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I probably spend more time listening to music than most other people.**
+- 💻 My GitHub:  
 
-<img src="https://imwnk-github-stats.vercel.app/api?username=rajitbanerjee&hide_rank=true&hide_border=true&show_icons=true&title_color=fff&icon_color=f39c19&text_color=9f9f9f&bg_color=151515"> 
+[![Rajit Banerjee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajitbanerjee&hide_title=true&show_icons=true&title_color=fff&icon_color=f39c19&text_color=9f9f9f&bg_color=151515)](https://github.com/rajitbanerjee)
 
 📊 **This week, I've been working with...**
 <!--START_SECTION:waka-->
