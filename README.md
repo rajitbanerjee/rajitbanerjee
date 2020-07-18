@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **my internship with [Insight@UCD](https://www.insight-centre.org/)**
 - 🌱 I’m currently learning **Docker, Bash, basics of ML**
-- 👯 I’m looking to collaborate on **anything cool!**
+- 👯 I’m looking to contribute to **more open source projects!**
 - 💬 Ask me about **Python, Java, photography, studying at UCD** 
 - 😄 Pronouns: **He/Him**
 - 💻 My GitHub:  
