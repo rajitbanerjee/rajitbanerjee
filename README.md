@@ -31,8 +31,6 @@
 
   <!--START_SECTION:waka-->
 ```text
-Week: 10 July, 2020 - 17 July, 2020
-
 Markdown    2 hrs 50 mins       ████████████████░░░░░░░░░   64.14 % 
 Bash        37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
 Other       30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
