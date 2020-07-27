@@ -23,7 +23,7 @@
       
   </td><td rowspan="2">
   
-   💻 **[My GitHub]()**  
+   💻 **[My GitHub](https://github.com/rajitbanerjee?tab=repositories)**  
   
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajitbanerjee&layout=compact&hide_title=true)](https://rajitbanerjee.github.io)
   
