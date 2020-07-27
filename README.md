@@ -27,7 +27,7 @@
   
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajitbanerjee&layout=compact&hide_title=true)](https://rajitbanerjee.github.io)
   
-  <img src="https://github-readme-stats.vercel.app/api?username=rajitbanerjee&hide_title=true&show_icons=true&count_private=true&title_color=f39c19&icon_color=f39c19">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajitbanerjee&hide_title=true&show_icons=true&count_private=true">
   
   </td></tr>  
   <tr><td>
