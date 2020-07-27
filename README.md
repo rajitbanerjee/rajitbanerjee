@@ -18,16 +18,21 @@
   - 🔭 I’m currently working on **my internship with [Insight@UCD](https://www.insight-centre.org/)**
   - 🌱 I’m currently learning **Docker, Bash, basics of ML**
   - 👯 I’m looking to contribute to **more open source projects!**
-      
-  </td><td>
-  
   - 💬 Ask me about **Python, Java, photography, studying at UCD** 
   - 😄 Pronouns: **He/Him**
+      
+  </td><td rowspan="2">
+  
+   💻 **[My GitHub]()**  
+  
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajitbanerjee&layout=compact)](https://rajitbanerjee.github.io)
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=rajitbanerjee&hide_title=true&show_icons=true&title_color=fff&icon_color=f39c19&text_color=9f9f9f&bg_color=151515">
   
   </td></tr>  
   <tr><td>
 
-  📊 **This week, I've been working with...**
+  📊 **[This week, I've been working with...](https://wakatime.com/)**
 
   <!--START_SECTION:waka-->
 ```text
@@ -39,13 +44,7 @@ JSON       23 mins         ░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
   
-</td><td>
-  
-  💻 **My GitHub**  
-
-  <img src="https://github-readme-stats.vercel.app/api?username=rajitbanerjee&hide_title=true&show_icons=true&title_color=fff&icon_color=f39c19&text_color=9f9f9f&bg_color=151515">
-  
-</td></tr>
+</td>></tr>
 </table>
 
 
