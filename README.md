@@ -32,7 +32,7 @@
   
   📁 **My Repositories**
   
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajitbanerjee&layout=compact&hide_title=true)](https://rajitbanerjee.github.io)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajitbanerjee&layout=compact&hide_title=true)](https://github.com/rajitbanerjee?tab=repositories)
   
   </td>
   <tr><td colspan="2">
