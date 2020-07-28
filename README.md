@@ -13,7 +13,7 @@
 </p>
 
 <table>
-  <tr><td>
+  <tr><td colspan="2">
     
   - 🔭 I’m currently working on **my internship with [Insight@UCD](https://www.insight-centre.org/)**
   - 🌱 I’m currently learning **Docker, Bash, basics of ML**
@@ -21,18 +21,21 @@
   - 💬 Ask me about **Python, Java, photography, studying at UCD** 
   - 😄 Pronouns: **He/Him**
       
-  </td><td rowspan="2">
+  </td></tr>
+  <tr><td>
   
-   💻 **[My GitHub](https://github.com/rajitbanerjee?tab=repositories)**  
+  💻 **My GitHub** 
+
+  <img src="https://github-readme-stats.vercel.app/api?username=rajitbanerjee&hide_title=true&show_icons=true&count_private=true&title_color=fff&icon_color=f39c19&text_color=9f9f9f&bg_color=151515">
+  
+  </td><td>
+  
+  📁 **My Repositories**
   
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajitbanerjee&layout=compact&hide_title=true)](https://rajitbanerjee.github.io)
   
-  <img src="https://github-readme-stats.vercel.app/api?username=rajitbanerjee&hide_title=true&show_icons=true&count_private=true">
-  
-  </td></tr>  
-  <tr><td>
-
-  📊 **[This week, I've been working with...](https://wakatime.com/)**
+  </td>
+  <tr><td colspan="2">
 
   <!--START_SECTION:waka-->
 📊 **This week I spent my time on** 
