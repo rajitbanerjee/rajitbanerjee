@@ -18,3 +18,4 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_COMMIT: "False"
           SHOW_PROJECTS: "False"
+          SHOW_TIMEZONE: "False"
