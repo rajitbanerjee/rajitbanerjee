@@ -16,12 +16,13 @@
   <tr><td>
     
   - 🔭 I’m currently working on **my internship with [Insight@UCD](https://www.insight-centre.org/)**
-  - 🌱 I’m currently learning **Docker, Bash, basics of ML**
-  - 👯 I’m looking to contribute to **more open source projects!**
+  - 🌱 I’m currently learning **Docker, Bash, Vim**
+
   
   </td><td>
   
-  - 💬 Ask me about **Python, Java [, photography!]** 
+  - 👯 I’m looking to contribute to **more open source projects!**
+  - 💬 Ask me about **Python, Java [, photography]** 
   - 😄 Pronouns: **He/Him**
       
   </td></tr>
@@ -33,14 +34,7 @@
   
   </td><td>
   
-  📁 **My Repositories**
-  
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajitbanerjee&layout=compact&hide_title=true)](https://github.com/rajitbanerjee?tab=repositories)
-  
-  </td>
-  <tr><td colspan="2">
-  
-  📊 **This week, I spent my time on...**
+   📊 **This week, I spent my time on...**
 
   <!--START_SECTION:waka-->
 ```text
@@ -51,6 +45,11 @@ Markdown   5 hrs 34 mins   ███░░░░░░░░░░░░░░�
 Python     4 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   10.32 %
 ```
 <!--END_SECTION:waka-->
+  
+  </td>
+  <tr><td colspan="2">
+  
+
   
 </td></tr>
 </table>
