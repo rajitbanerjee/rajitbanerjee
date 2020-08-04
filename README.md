@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://github.com/rajitbanerjee/rajitbanerjee/blob/master/resources/hello-world.jpg" width=500 /> 
   <br />
+  <a href="https://github.com/antonkomarev/github-profile-views-counter" alt="Profile views">
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&color=f39c19" />
+  </a>
   <a href="https://www.linkedin.com/in/rajitbanerjee/">
     <img src="https://img.shields.io/badge/-rajitbanerjee-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
