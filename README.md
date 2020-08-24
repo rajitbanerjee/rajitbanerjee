@@ -5,15 +5,20 @@
     <img src="https://komarev.com/ghpvc/?username=your-github-username&color=f39c19" />
   </a>
   <a href="https://www.linkedin.com/in/rajitbanerjee/">
-    <img src="https://img.shields.io/badge/-rajitbanerjee-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+     <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://rajitbanerjee.github.io">
-    <img src="https://img.shields.io/badge/-rajitbanerjee.github.io-black?style=flat-square&logo=github&logoColor=white" />
+    <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
   <a href="https://twitter.com/rajit_banerjee">
-    <img src="https://img.shields.io/twitter/follow/rajit_banerjee?style=social" alt="Twitter" />
+     <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="https://now-playing-profile.rajitbanerjee.vercel.app/now-playing?open">
+    <img src="https://now-playing-profile.rajitbanerjee.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
   </a>
 </p>
+
+
 
 <table>
   <tr><td>
