@@ -45,7 +45,7 @@
   
   **~/stats/this-week/**
 
-  <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 ```text
 Other      7 hrs 28 mins   ███████████████▓░░░░░░░░░   62.49 % 
 Python     2 hrs 4 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.36 % 
