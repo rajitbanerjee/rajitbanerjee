@@ -21,8 +21,8 @@
   
   **~/raj/about.md**
     
-  - 🔭 I’m currently working with **[Insight@UCD](https://www.insight-centre.org/)**
-  - 🌱 I’m currently learning **Docker, Bash, Vim**
+  - 🔭 I’m currently working on **online certificate courses**
+  - 🌱 I’m currently learning **SQL, ML algorithms, computer vision**
   - 👯 I’m looking to contribute to **more open source projects!**
   - 😄 Pronouns: **He/Him**
 
