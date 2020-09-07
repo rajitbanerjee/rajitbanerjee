@@ -46,21 +46,7 @@
   **~/stats/this-week/**
 
 <!--START_SECTION:waka-->
-```text
-Other      7 hrs 7 mins    ██████████████████▒░░░░░░   73.52 % 
-HTML       1 hr 8 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Markdown   58 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Bash       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Python     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-```
 <!--END_SECTION:waka-->
   
-  </td>
-  <tr><td colspan="2">
-  
-
-  
-</td></tr>
+  </td></tr>
 </table>
-
-
