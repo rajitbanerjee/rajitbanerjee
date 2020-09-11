@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://twitter.com/rajit_banerjee">
-    <img src="https://img.shields.io/twitter/follow/rajit_banerjee?style=social" alt="Twitter" />
+    <img src="https://img.shields.io/twitter/follow/rajit_banerjee?label=Twitter" alt="Twitter" />
   </a>
 </p>
 
