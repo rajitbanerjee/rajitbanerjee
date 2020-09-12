@@ -1,7 +1,7 @@
 
 <p align="center">
-<!--   <img src="https://github.com/rajitbanerjee/rajitbanerjee/blob/master/resources/hello-world.jpg" width=400 /> 
-  <br /> -->
+  <img src="https://github.com/rajitbanerjee/rajitbanerjee/blob/master/resources/hello-world.jpg" width=400 /> 
+  <br />
   <a href="https://github.com/antonkomarev/github-profile-views-counter" alt="Profile views">
     <img src="https://komarev.com/ghpvc/?username=your-github-username&color=f39c19" />
   </a>
