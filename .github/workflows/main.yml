@@ -7,13 +7,23 @@ on:
     - cron: '0 0 * * *'
   push:
     branches: 
-      - master    
-
+      - master  
+        
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update README with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_COMMIT: "False"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_EDITORS: "False"
+          SHOW_LOC_CHART: "False"
