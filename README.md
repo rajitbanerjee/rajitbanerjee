@@ -11,9 +11,6 @@
   <a href="https://rajitbanerjee.com">
     <img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://twitter.com/rajit_banerjee">
-    <img src="https://img.shields.io/twitter/follow/rajit_banerjee?label=Twitter" alt="Twitter" />
-  </a>
 </p>
 
 <table>
