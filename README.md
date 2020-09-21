@@ -18,7 +18,7 @@
   
   **~/raj/about.md**
     
-  - 🔭 I’m currently working on **online certificate courses**
+  - 🔭 I’m currently working on **my problem-solving skills**
   - 🌱 I’m currently learning **ML algorithms, multivariable calculus**
   - 👯 I’m looking to contribute to **more open source projects!**
   - 😄 Pronouns: **He/Him**
