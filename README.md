@@ -29,7 +29,7 @@
 **~/spotify/now-playing/**
 
 <a href="https://now-playing-profile.rajitbanerjee.vercel.app/now-playing?open">
-  <img src="https://now-playing-profile.rajitbanerjee.vercel.app/now-playing" width="350" alt="Spotify Now Playing">
+  <img src="https://now-playing-profile.rajitbanerjee.vercel.app/now-playing" width="250" alt="Spotify Now Playing">
 </a>
 
  </td></tr>
@@ -37,7 +37,7 @@
   
 **~/stats/github/** 
 
-<img width="1000" src="https://github-readme-stats.vercel.app/api?username=rajitbanerjee&hide_title=true&show_icons=true&count_private=true&title_color=fff&icon_color=f39c19&text_color=9f9f9f&bg_color=151515">
+<img width="500" src="https://github-readme-stats.vercel.app/api?username=rajitbanerjee&hide_title=true&show_icons=true&count_private=true&title_color=fff&icon_color=f39c19&text_color=9f9f9f&bg_color=151515">
       
  </td></tr>
 </table>
