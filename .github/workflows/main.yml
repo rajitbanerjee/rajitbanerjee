@@ -1,17 +1,19 @@
 name: Waka Readme
 
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
 on:
+  push:
+    branches:
+      - master
   workflow_dispatch:
   schedule:
     # Runs at 12am UTC
     - cron: '0 0 * * *'
-  push:
-    branches: 
-      - master  
-        
+
 jobs:
   update-readme:
-    name: Update README with Metrics
+    name: Update README with metrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
