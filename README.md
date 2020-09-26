@@ -45,11 +45,4 @@
 **~/stats/this-week/**
 
 <!--START_SECTION:waka-->
-```text
-Other              4 hrs 2 mins    ██████████▓░░░░░░░░░░░░░░   42.58 % 
-Markdown           2 hrs 47 mins   ███████▒░░░░░░░░░░░░░░░░░   29.35 % 
-Python             1 hr 11 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-HTML               1 hr 1 min      ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Jupyter Notebook   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-```
 <!--END_SECTION:waka-->
