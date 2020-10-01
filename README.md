@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on **cracking the coding interview and securing that 2021 internship!**
 - 🌱 I’m learning about **graph search algorithms, automata theory**
 - 👯 I’m looking to contribute to **more open source projects**
-- 🎵 Outside of work, I love **music, photography and skateboarding!** 
+- 🎵 Outside of work, I love **[music](https://open.spotify.com/user/wymor21u123mm4nt28v77fcy9?si=BSyQ3sptRUOjp2QaHJXHrA), [photography](https://www.instagram.com/rajit.banerjee/) and skateboarding!** 
 - 😄 Pronouns: **He/Him**
 
 </td><td>
