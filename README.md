@@ -19,7 +19,7 @@
 **~/raj/about.md**
 
 - 🔭 I’m currently working on **cracking the coding interview and securing that 2021 internship!**
-- 🌱 I’m learning about **machine learning algorithms, multivariable calculus**
+- 🌱 I’m learning about **graph search algorithms, automata theory**
 - 👯 I’m looking to contribute to **more open source projects**
 - 🎵 Outside of work, I love **music, photography and skateboarding!** 
 - 😄 Pronouns: **He/Him**
