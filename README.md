@@ -45,11 +45,4 @@
 **~/stats/this-week/**
 
 <!--START_SECTION:waka-->
-```text
-Other              44 mins         ██████████░░░░░░░░░░░░░░░   39.54 % 
-Python             27 mins         ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-C                  19 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.05 % 
-VimL               11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-Jupyter Notebook   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-```
 <!--END_SECTION:waka-->
