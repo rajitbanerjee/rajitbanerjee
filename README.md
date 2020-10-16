@@ -18,8 +18,8 @@
     
 **~/raj/about.md**
 
-- 🔭 I’m currently working on **cracking the coding interview and securing that 2021 internship!**
-- 🌱 I’m learning about **graph search algorithms, automata theory**
+<!-- - 🔭 I’m currently working on **** -->
+- 🌱 I’m currently learning about **adversarial search, automata theory**
 - 👯 I’m looking to contribute to **more open source projects**
 - 🎵 Outside of work, I love **[music](https://open.spotify.com/user/wymor21u123mm4nt28v77fcy9?si=BSyQ3sptRUOjp2QaHJXHrA), [photography](https://www.instagram.com/rajit.banerjee/) and skateboarding!** 
 - 😄 Pronouns: **He/Him**
@@ -45,11 +45,4 @@
 **~/stats/this-week/**
 
 <!--START_SECTION:waka-->
-```text
-Other      3 hrs 15 mins   ███████████████▓░░░░░░░░░   63.32 % 
-Python     35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-CSV        35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Markdown   24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-HTML       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-```
 <!--END_SECTION:waka-->
