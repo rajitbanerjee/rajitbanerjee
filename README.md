@@ -19,7 +19,7 @@
 **~/raj/about.md**
 
 - 🔭 I’m currently working on **[Advent of Code](https://github.com/rajitbanerjee/advent-of-code)** 
-- 🌱 I’m currently learning about **basics of AI/ML, Networks & Internet Systems**
+- 🌱 I’m currently learning about **[Go](https://golang.org/)**
 - 👯 I’m looking to contribute to **more open source projects**
 - 🎵 Outside of work, I love **[music](https://open.spotify.com/user/wymor21u123mm4nt28v77fcy9?si=BSyQ3sptRUOjp2QaHJXHrA), [photography](https://www.instagram.com/rajit.banerjee/) and skateboarding!** 
 - 😄 Pronouns: **He/Him**
