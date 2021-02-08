@@ -42,6 +42,8 @@
  </td></tr>
 </table>
 
+**~/stats/weekly-coding/**  
+
 <!--START_SECTION:waka-->
 ```text
 Week: 31 January, 2021 - 07 February, 2021
