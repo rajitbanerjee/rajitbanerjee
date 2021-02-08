@@ -40,9 +40,9 @@
 <img width="500" src="https://github-readme-stats.vercel.app/api?username=rajitbanerjee&hide_title=true&show_icons=true&count_private=true&title_color=fff&icon_color=f39c19&text_color=9f9f9f&bg_color=151515">
       
  </td></tr>
-</table>
-
-**~/stats/weekly-coding/**  
+ <tr><td colspan="2">
+  
+  **~/stats/weekly-coding/**  
 
 <!--START_SECTION:waka-->
 ```text
@@ -51,7 +51,10 @@ Week: 31 January, 2021 - 07 February, 2021
 Other      33 hrs 31 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.06 % 
 Bash       29 hrs 4 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.20 % 
 Markdown   12 hrs 59 mins  ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.08 % 
-JSON       13 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.29 % 
-CSV        11 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.25 % 
 ```
 <!--END_SECTION:waka-->
+
+  </td></tr>
+</table>
+
+
