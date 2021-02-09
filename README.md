@@ -46,7 +46,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 January, 2021 - 07 February, 2021
+Week: 01 February, 2021 - 08 February, 2021
 
 Other      33 hrs 31 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.06 % 
 Bash       29 hrs 4 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.20 % 
