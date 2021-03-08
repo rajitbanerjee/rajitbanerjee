@@ -18,7 +18,7 @@ $ xdg-open spotify-now-playing.html
 $ wc -l visitors.txt
 ```
 <a href="https://github.com/antonkomarev/github-profile-views-counter" alt="Profile views">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=008080" />
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=007ec6" />
 </a>
 
 ```bash
