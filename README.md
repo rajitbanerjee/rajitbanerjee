@@ -25,11 +25,11 @@ $ wc -l visitors.txt
 $ cat about.json
 
 {
+  "pronouns": "he/him",
   "work": "SDE Intern @ Amazon Web Services",
   "currently_exploring": ["Neovim", "AWS"],
   "curious_about": ["Big Data Analytics", "Data Engineering", "Linux", "Machine Learning"],
   "hobbies": ["music", "photography", "skateboarding"],
-  "pronouns": "he/him",
   "portfolio": "https://rajitbanerjee.com"
 }
 ```
