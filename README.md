@@ -1,45 +1,36 @@
+```bash
+$ figlet hello world!
+ _          _ _                            _     _ _
+| |__   ___| | | ___   __      _____  _ __| | __| | |
+| '_ \ / _ \ | |/ _ \  \ \ /\ / / _ \| '__| |/ _` | |
+| | | |  __/ | | (_) |  \ V  V / (_) | |  | | (_| |_|
+|_| |_|\___|_|_|\___/    \_/\_/ \___/|_|  |_|\__,_(_)
+```
 
-<p align="center">
-  <img src="https://github.com/rajitbanerjee/rajitbanerjee/blob/master/resources/hello-world.jpg" width=400 /> 
-  <br />
-  <a href="https://www.linkedin.com/in/rajitbanerjee/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://rajitbanerjee.com">
-    <img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=Google-Chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/antonkomarev/github-profile-views-counter" alt="Profile views">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&color=f39c19" />
-  </a>
-</p>
-
-<table>
-  <tr><td rowspan="2">
-    
-**~/raj/about.md**
-
-<!-- - 🔭 I’m currently working on **** --> 
-- 🌱 I’m currently learning about **[Neovim](https://github.com/neovim/neovim)**
-<!-- - 👯 I’m looking to contribute to **more open source projects** -->
-- 🎵 Outside of work, I love **[music](https://open.spotify.com/user/wymor21u123mm4nt28v77fcy9?si=BSyQ3sptRUOjp2QaHJXHrA), [photography](https://www.instagram.com/rajit.banerjee/) and skateboarding!** 
-- 😄 Pronouns: **He/Him**
-
-</td><td>
-
-**~/spotify/now-playing/**
-
+```bash
+$ xdg-open spotify-now-playing.html
+```
 <a href="https://now-playing-profile.rajitbanerjee.vercel.app/now-playing?open">
   <img src="https://now-playing-profile.rajitbanerjee.vercel.app/now-playing" width="250" alt="Spotify Now Playing">
 </a>
 
- </td></tr>
- <tr><td>
-  
-**~/stats/github/** 
+```bash
+$ wc -l visitors.txt
+```
+<a href="https://github.com/antonkomarev/github-profile-views-counter" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=008080" />
+</a>
 
-<img width="500" src="https://github-readme-stats.vercel.app/api?username=rajitbanerjee&hide_title=true&show_icons=true&count_private=true&title_color=fff&icon_color=f39c19&text_color=9f9f9f&bg_color=151515">
-      
- </td></tr>
-</table>
+```bash
+$ cat about.json
 
+{
+  "work": "SDE Intern @ Amazon Web Services",
+  "currently_exploring": ["Neovim", "AWS"],
+  "curious_about": ["Big Data Analytics", "Data Engineering", "Linux", "Machine Learning"],
+  "hobbies": ["music", "photography", "skateboarding"],
+  "pronouns": "he/him",
+  "portfolio": "https://rajitbanerjee.com"
+}
+```
 
