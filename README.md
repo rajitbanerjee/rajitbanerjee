@@ -10,7 +10,7 @@ $ figlet hello world!
 ```bash
 $ xdg-open spotify-now-playing.html
 ```
-<a href="https://open.spotify.com/user/wymor21u123mm4nt28v77fcy9?si=65d1adaef4944351" target="_blank">
+<a href="https://open.spotify.com/user/wymor21u123mm4nt28v77fcy9?si=65d1adaef4944351">
   <img src="https://now-playing-profile.rajitbanerjee.vercel.app/now-playing" width="250" alt="Spotify Now Playing">
 </a>
 
