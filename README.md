@@ -21,13 +21,14 @@ $ wc -l visitors.txt
   <img src="https://komarev.com/ghpvc/?username=your-github-username&color=007ec6" />
 </a>
 
+<!--   "work": "SDE @ Amazon Web Services", -->
+
 ```bash
 $ cat about.json
 
 {
   "pronouns": "he/him",
-  "work": "SDE Intern @ Amazon Web Services",
-  "currently_exploring": ["AWS", "TypeScript"],
+  "currently_exploring": ["Distributed Systems"],
   "curious_about": ["Big Data", "Data Engineering", "Linux", "Machine Learning"],
   "hobbies": ["music", "photography", "skateboarding"],
   "portfolio": "https://rajitbanerjee.com"
