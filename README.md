@@ -27,10 +27,9 @@ $ wc -l visitors.txt
 $ cat about.json
 
 {
-  "pronouns": "he/him",
-  "currently_exploring": ["Distributed Systems"],
-  "curious_about": ["Big Data", "Data Engineering", "Linux", "Machine Learning"],
-  "hobbies": ["music", "photography", "skateboarding"],
+  "currently_exploring": ["Performance Engineering"],
+  "curious_about": ["Distributed Systems", "Microservices", "Data Engineering"],
+  "interests": ["music", "photography", "skateboarding"],
   "portfolio": "https://rajitbanerjee.com"
 }
 ```
