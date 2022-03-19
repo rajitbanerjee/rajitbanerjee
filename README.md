@@ -14,22 +14,15 @@ $ xdg-open spotify-now-playing.html
   <img src="https://now-playing-profile.rajitbanerjee.vercel.app/now-playing" width="250" alt="Spotify Now Playing">
 </a>
 
-```bash
-$ wc -l visitors.txt
-```
-<a href="https://github.com/antonkomarev/github-profile-views-counter" alt="Profile views">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=007ec6" />
-</a>
-
 <!--   "work": "SDE @ Amazon Web Services", -->
 
 ```bash
-$ cat about.json
+$ cat about.json | jq
 
 {
   "currently_exploring": ["Performance Engineering"],
-  "curious_about": ["Distributed Systems", "Microservices", "Data Engineering"],
-  "interests": ["music", "photography", "skateboarding"],
+  "interested_in": ["Distributed Systems", "Microservices", "UI/UX", "Secure Software Engineering"],
+  "hobbies": ["music", "photography", "skateboarding"],
   "portfolio": "https://rajitbanerjee.com"
 }
 ```
