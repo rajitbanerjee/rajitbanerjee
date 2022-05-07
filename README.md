@@ -14,13 +14,12 @@ $ xdg-open spotify-now-playing.html
   <img src="https://now-playing-profile.rajitbanerjee.vercel.app/now-playing" width="250" alt="Spotify Now Playing">
 </a>
 
-<!--   "work": "SDE @ Amazon Web Services", -->
 
 ```bash
 $ cat about.json | jq
 
 {
-  "currently_exploring": ["Performance Engineering"],
+  "work": "SDE @ Amazon Web Services",
   "interested_in": ["Distributed Systems", "Microservices", "UI/UX", "Secure Software Engineering"],
   "hobbies": ["music", "photography", "skateboarding"],
   "portfolio": "https://rajitbanerjee.com"
