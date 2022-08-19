@@ -8,7 +8,7 @@ $ figlet hello world!
 ```
 
 ```bash
-$ xdg-open spotify-now-playing.html
+$ open spotify-now-playing.html
 ```
 <a href="https://open.spotify.com/user/wymor21u123mm4nt28v77fcy9?si=65d1adaef4944351">
   <img src="https://now-playing-profile.rajitbanerjee.vercel.app/now-playing" width="250" alt="Spotify Now Playing">
@@ -20,9 +20,8 @@ $ cat about.json | jq
 
 {
   "work": "SDE @ Amazon Web Services",
-  "interested_in": ["Distributed Systems", "Microservices", "UI/UX", "Secure Software Engineering"],
-  "hobbies": ["music", "photography", "skateboarding"],
-  "portfolio": "https://rajitbanerjee.com"
+  "in": ["Distributed Systems", "Microservices", "UI/UX", "Secure Software Engineering"],
+  "interests": ["music", "formula_1", "photography"],
 }
 ```
 
