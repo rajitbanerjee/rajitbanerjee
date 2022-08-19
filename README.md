@@ -19,9 +19,9 @@ $ open spotify-now-playing.html
 $ cat about.json | jq
 
 {
-  "work": "SDE @ Amazon Web Services",
-  "in": ["Distributed Systems", "Microservices", "UI/UX", "Secure Software Engineering"],
-  "interests": ["music", "formula_1", "photography"],
+  "Work": "SDE @ Amazon Web Services",
+  "Interests": ["Distributed Systems", "Microservices", "UI/UX", "Secure Software Engineering"],
+  "Hobbies": ["Music", "Formula 1", "Photography"],
 }
 ```
 
