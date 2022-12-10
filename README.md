@@ -1,4 +1,4 @@
-```bash
+```
 $ figlet hello world!
  _          _ _                            _     _ _
 | |__   ___| | | ___   __      _____  _ __| | __| | |
@@ -7,7 +7,7 @@ $ figlet hello world!
 |_| |_|\___|_|_|\___/    \_/\_/ \___/|_|  |_|\__,_(_)
 ```
 
-```bash
+```
 $ open spotify-now-playing.html
 ```
 <a href="https://open.spotify.com/user/wymor21u123mm4nt28v77fcy9?si=65d1adaef4944351">
@@ -15,7 +15,7 @@ $ open spotify-now-playing.html
 </a>
 
 
-```bash
+```
 $ cat about.json | jq
 
 {
