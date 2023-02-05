@@ -21,7 +21,7 @@ $ cat about.json | jq
 
 {
   "Work": "SDE @ Amazon Web Services",
-  "Interests": ["Distributed Systems", "Microservices", "UI/UX", "Secure Software Engineering"],
+  "Interests": ["DevOps", "Distributed Systems", "Secure Software Engineering", "UI/UX"],
   "Hobbies": ["Music", "Formula 1", "Photography"],
 }
 ```
